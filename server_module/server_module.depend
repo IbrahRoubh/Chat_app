@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673203762 source:c:\users\ss\desktop\server_module\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<winsock2.h>
+	<pthread.h>
+

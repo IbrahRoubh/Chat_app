@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675581924 source:c:\users\ss\desktop\chat_app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<winsock2.h>
+	<pthread.h>
+
