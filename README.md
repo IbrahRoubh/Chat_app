@@ -3,7 +3,10 @@
 
  <h2>How to run it:</h2>
  <p>1-Run the server_module</p>
+ <img src="/serverRun.png"/>
  <p>2-From the device that the server is running take the IPv4 Address</p>
  <p>3-Open the client_module file->main.c and chang the IP address to the one you take from server device</p>
  <img src="/mainIP.jpg"/>
+ <p>4-Run the client_module<p>
+ <img src="/clientRun.png"/>
 

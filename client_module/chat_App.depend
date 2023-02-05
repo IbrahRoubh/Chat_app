@@ -7,3 +7,11 @@
 	<winsock2.h>
 	<pthread.h>
 
+1675582167 source:c:\users\ss\desktop\ibrahim\githib project\done\chat_app\chat_app\client_module\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<winsock2.h>
+	<pthread.h>
+
